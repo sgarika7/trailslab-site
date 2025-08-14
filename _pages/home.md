@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "TRAILSLab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Technocritical Research on AI, Learning & Society (trailsLAB), George Mason University."
 sitemap: false
 permalink: /
 ---
