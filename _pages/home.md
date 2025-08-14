@@ -53,9 +53,9 @@ permalink: /
 
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LMU_logo.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Tschira.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SuperC_logo.png" style="width: 100px">
+  <img src="{{'/images/logopic/LMU_logo.png' | relative_url }}" style="width: 130px">
+  <img src="{{ '/images/logopic/Logo_Leiden.jpg' | relative_url }}" style="width: 140px">
+  <img src="{{'/images/logopic/Tschira.png' | relative_url }}" style="width: 150px">
+  <img src="{{ /images/logopic/Logo_ERC.jpg' | relative_url }}" style="width: 100px">
+  <img src="{{'/images/logopic/SuperC_logo.png' | relative_url }}" style="width: 100px">
 </figure>
