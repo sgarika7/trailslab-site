@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "trailsLAB - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Technocritical Research on AI, Learning & Society (trailsLAB) — Publications."
 sitemap: false
 permalink: /publications/
 ---
