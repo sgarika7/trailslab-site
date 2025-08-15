@@ -10,8 +10,8 @@ title: Technocritical Research on AI, Learning & Society Lab (trailsLAB)
 email: johri@gmu.edu
 description: > # this means to ignore newlines until "baseurl:"
   Website of the TrailsLAB.
-baseurl: "https://sgarika7.github.io"
-url: "/trailslab-site"
+baseurl: "/trailslab-site"
+url: "https://sgarika7.github.io"
 
 include:
   - .htaccess
