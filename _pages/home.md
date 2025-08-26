@@ -18,7 +18,6 @@ permalink: /
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
-
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
@@ -40,6 +39,7 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
         </div>
     </div>
+    -->
   <!--
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -65,3 +65,4 @@ The Technocritical Research on AI, Learning, and Society Laboratory or trailsLAB
   <img src="{{ /images/logopic/Logo_ERC.jpg' | relative_url }}" style="width: 100px">
   <img src="{{'/images/logopic/SuperC_logo.png' | relative_url }}" style="width: 100px">
 </figure>
+-->
