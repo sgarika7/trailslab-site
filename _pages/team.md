@@ -1,5 +1,5 @@
 ---
-title: "trailsLAB - Publications"
+title: "TRAILSlab - Team"
 layout: gridlay
 excerpt: "Technocritical Research on AI, Learning & Society (trailsLAB) — Publications."
 sitemap: false
