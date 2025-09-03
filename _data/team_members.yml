@@ -1,20 +1,18 @@
 - name: Akriti Bagale
-  photo: dummy.png
+  photo: Akriti.jpg
   info: Graduate Researcher
-  email:
   number_educ: 1
   education1: "Interests: Natural Language Processing; AI ethics; Education Technology; Human-Computer Interaction; computational data analysis."
 
 - name: Amrita Ganguly
-  photo: dummy.png
+  photo: Amrita.jpg
   info: Graduate Researcher
-  email:
+
   number_educ: 1
   education1: "Interests: Generative AI in Education; AI Ethics; Human–Computer Interaction; Qualitative and Quantitative Data Analysis; Web Development."
 
 - name: Nafisa Mehjabin
-  photo: dummy.png
+  photo: Nafisa.jpg
   info: Graduate Researcher
-  email:
   number_educ: 1
   education1: "Interests: AI ethics in Education; AI–human Collaboration; Natural Language Processing; Social Media Data Analysis."
