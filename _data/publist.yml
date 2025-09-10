@@ -3,24 +3,24 @@
   image: ""
   description: ""
   link:
-    url: "https://doi.org/10.1016/j.caeo.2024.100173"
+    url: "https://www.sciencedirect.com/science/article/pii/S2666557324000144"
     display: "Computers and Education Open, 100173 (2024)"
   highlight: 1
   news1: ""
   news2: ""
 
-- title: "Engineering Educators’ Perspectives on the Impact of Generative AI in Higher Education"
+- title: "Engineering Educators' Perspectives on the Impact of Generative AI in Higher Education"
   authors: "Dewan, U., Hingle, A., McDonald, N., & Johri, A."
   image: ""
   description: ""
   link:
-    url: "https://doi.org/10.1109/EDUCON62633.2025.11016518"
-    display: "EDUCON 2025, IEEE"
+    url: "https://arxiv.org/abs/2502.00569"
+    display: "EDUCON 2025 (IEEE), pp. 1–10"
   highlight: 1
   news1: ""
   news2: ""
 
-- title: "Misconceptions, Pragmatism, and Value Tensions: Evaluating Students’ Understanding and Perception of Generative AI for Education"
+- title: "Misconceptions, Pragmatism, and Value Tensions: Evaluating Students' Understanding and Perception of Generative AI for Education"
   authors: "Johri, A., Hingle, A., & Schleiss, J."
   image: ""
   description: ""
@@ -36,7 +36,7 @@
   image: ""
   description: ""
   link:
-    url: "https://doi.org/10.1002/jee.20491"
+    url: "https://www.researchgate.net/publication/371520997_Generative_artificial_intelligence_and_engineering_education"
     display: "Journal of Engineering Education, 112(3) (2023)"
   highlight: 1
   news1: ""
@@ -47,8 +47,8 @@
   image: ""
   description: ""
   link:
-    url: "https://doi.org/10.1002/jee.20341"
-    display: "Journal of Engineering Education, 359–361 (2020)"
+    url: "https://www.researchgate.net/publication/341497118_Artificial_intelligence_and_engineering_education"
+    display: "Journal of Engineering Education, 358–361 (2020)"
   highlight: 0
   news1: ""
   news2: ""
@@ -58,7 +58,7 @@
   image: ""
   description: ""
   link:
-    url: "https://doi.org/10.25304/rlt.v30.2814"
+    url: "https://files.eric.ed.gov/fulltext/EJ1359237.pdf"
     display: "Research in Learning Technology, 30 (2022)"
   highlight: 0
   news1: ""
@@ -80,7 +80,7 @@
   image: ""
   description: ""
   link:
-    url: "https://doi.org/10.1016/j.chbah.2025.100121"
+    url: "https://arxiv.org/abs/2402.01659"
     display: "Computers in Human Behavior: Artificial Humans, 100121 (2025)"
   highlight: 1
   news1: ""
@@ -91,8 +91,8 @@
   image: ""
   description: ""
   link:
-    url: "https://doi.org/10.1007/s43681-025-00492-5"
-    display: "AI and Ethics (2025)"
+    url: "https://arxiv.org/abs/2503.00664"
+    display: "AI and Ethics, 1–17 (2025)"
   highlight: 0
   news1: ""
   news2: ""
@@ -102,18 +102,18 @@
   image: ""
   description: ""
   link:
-    url: "https://doi.org/10.1145/3545947.3569663"
-    display: "SIGCSE 2025 (Proceedings, V.1)"
+    url: "https://arxiv.org/abs/2410.22281"
+    display: "Proceedings of the 56th ACM Technical Symposium on Computer Science Education V.1 (2025)"
   highlight: 0
   news1: ""
   news2: ""
 
-- title: "Leveraging generative AI for course learning outcome categorization using Bloom’s taxonomy"
+- title: "Leveraging generative AI for course learning outcome categorization using Bloom's taxonomy"
   authors: "Almatrafi, O., & Johri, A."
   image: ""
   description: ""
   link:
-    url: "https://doi.org/10.1016/j.caeai.2025.100404"
+    url: "https://par.nsf.gov/biblio/10589953-leveraging-generative-ai-course-learning-outcome-categorization-using-bloom-taxonomy"
     display: "Computers and Education: Artificial Intelligence, 8, 100404 (2025)"
   highlight: 0
   news1: ""
@@ -124,8 +124,8 @@
   image: ""
   description: ""
   link:
-    url: "https://doi.org/10.1007/s00146-025-01789-7"
-    display: "AI & SOCIETY, 40(2), 711-732 (2025)"
+    url: "https://www.researchgate.net/publication/379478961_Using_rhetorical_strategies_to_design_prompts_a_human-in-the-loop_approach_to_make_AI_useful"
+    display: "AI & SOCIETY, 40(2), 711–732 (2025)"
   highlight: 0
   news1: ""
   news2: ""
@@ -157,8 +157,8 @@
   image: ""
   description: ""
   link:
-    url: "https://doi.org/10.1109/EDUCON62633.2025.11016501"
-    display: "EDUCON 2025, IEEE"
+    url: "https://www.researchgate.net/publication/392375474_The_Responsible_Development_of_Automated_Student_Feedback_with_Generative_AI"
+    display: "EDUCON 2025 (IEEE)"
   highlight: 1
   news1: ""
   news2: ""
@@ -168,20 +168,20 @@
   image: ""
   description: ""
   link:
-    url: "https://sefi2023.eu/"  # proceedings link may vary
-    display: "SEFI 2023, Proceedings (pp. 2244-2253)"
+    url: "https://vbn.aau.dk/ws/portalfiles/portal/692322060/Ethical_Concerns_And_Responsible_Use_Of_Generative_Artificial_Int.pdf"
+    display: "SEFI 2023, Proceedings (pp. 2244–2253)"
   highlight: 0
   news1: ""
   news2: ""
 
-- title: "Students’ technological ambivalence toward online proctoring and the need for responsible use of educational technologies"
+- title: "Students' technological ambivalence toward online proctoring and the need for responsible use of educational technologies"
   authors: "Johri, A., & Hingle, A."
   image: ""
   description: ""
   link:
-    url: "https://doi.org/10.1002/jee.20458"
-    display: "Journal of Engineering Education, 112(1), 221-242 (2023)"
-  highlight: 0
+    url: "https://eric.ed.gov/?id=EJ1363510"
+    display: "Journal of Engineering Education, 112(1), 221–242 (2023)"
+  highlight: 1
   news1: ""
   news2: ""
 
@@ -190,7 +190,7 @@
   image: ""
   description: ""
   link:
-    url: "https://doi.org/10.3389/frai.2022.836557"
+    url: "https://pubmed.ncbi.nlm.nih.gov/35224480/"
     display: "Frontiers in Artificial Intelligence, 5, 836557 (2022)"
   highlight: 0
   news1: ""
@@ -201,7 +201,7 @@
   image: ""
   description: ""
   link:
-    url: "https://doi.org/10.1109/TTS.2024.1234567"
+    url: "https://ieeexplore.ieee.org/document/10547225"
     display: "IEEE Transactions on Technology and Society (2024)"
   highlight: 0
   news1: ""
@@ -212,7 +212,7 @@
   image: ""
   description: ""
   link:
-    url: "https://peer.asee.org/recognizing-principles-of-ai-ethics-through-a-role-play-case-study-on-agriculture"
+    url: "https://par.nsf.gov/servlets/purl/10496361"
     display: "ASEE Annual Conference & Exposition (2023)"
   highlight: 0
   news1: ""
