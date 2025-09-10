@@ -41,8 +41,6 @@ permalink: /publications/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
------
 <div class="pub-funding">
   <h2>Our work is supported by the following NSF awards</h2>
  <ul>
