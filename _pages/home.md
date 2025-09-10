@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<img src="{{ site.baseurl }}/images/newspic/home-hero.jpg" alt="TRAILSLab group/hero" class="img-responsive home-hero" />
+<img src="{{ site.baseurl }}/images/newspic/logo.jpg" alt="TRAILSLab group/hero" class="img-responsive home-hero" />
 
 <div class="home-lead">
   <p>
