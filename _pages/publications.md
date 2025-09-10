@@ -42,7 +42,7 @@ permalink: /publications/
 </div>
 {% endif %}
 <div class="pub-funding">
-  <h2>Our work is supported by the following NSF awards</h2>
+  <p>Our work is supported by the following NSF awards</p>
  <ul>
     <li>Johri, A. (2024). Education DCL: EAGER: An Embedded Case Study Approach for Broadening Students' Mindset for Ethical and Responsible Cybersecurity. <strong>NSF Award Number 2335636</strong>.</li>
     <li>Johri, A. (2023). EAGER: Impact of Generative Artificial Intelligence (GAI) on Engineering Education Practices. <strong>NSF Award Number 2319137</strong>.</li>
