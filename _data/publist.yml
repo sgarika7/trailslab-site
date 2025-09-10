@@ -24,7 +24,7 @@
   link:
     url: "https://arxiv.org/abs/2410.22289"
     display: "arXiv preprint arXiv:2410.22289 (2024)"
-  highlight: 0
+  highlight: 1
   news1: ""
   news2: ""
 
@@ -44,7 +44,7 @@
   link:
     url: "https://www.researchgate.net/publication/341497118_Artificial_intelligence_and_engineering_education"
     display: "Journal of Engineering Education, 358–361 (2020)"
-  highlight: 0
+  highlight: 1
   news1: ""
   news2: ""
 
@@ -54,7 +54,7 @@
   link:
     url: "https://files.eric.ed.gov/fulltext/EJ1359237.pdf"
     display: "Research in Learning Technology, 30 (2022)"
-  highlight: 0
+  highlight: 1
   news1: ""
   news2: ""
 
@@ -64,7 +64,7 @@
   link:
     url: "https://arxiv.org/abs/2502.00567"
     display: "arXiv preprint arXiv:2502.00567 (2025)"
-  highlight: 0
+  highlight: 1
   news1: ""
   news2: ""
 
@@ -84,7 +84,7 @@
   link:
     url: "https://arxiv.org/abs/2503.00664"
     display: "AI and Ethics, 1–17 (2025)"
-  highlight: 0
+  highlight: 1
   news1: ""
   news2: ""
 
@@ -94,7 +94,7 @@
   link:
     url: "https://arxiv.org/abs/2410.22281"
     display: "Proceedings of the 56th ACM Technical Symposium on Computer Science Education V.1 (2025)"
-  highlight: 0
+  highlight: 1
   news1: ""
   news2: ""
 
@@ -104,7 +104,7 @@
   link:
     url: "https://par.nsf.gov/biblio/10589953-leveraging-generative-ai-course-learning-outcome-categorization-using-bloom-taxonomy"
     display: "Computers and Education: Artificial Intelligence, 8, 100404 (2025)"
-  highlight: 0
+  highlight: 1
   news1: ""
   news2: ""
 
@@ -114,7 +114,7 @@
   link:
     url: "https://www.researchgate.net/publication/379478961_Using_rhetorical_strategies_to_design_prompts_a_human-in-the-loop_approach_to_make_AI_useful"
     display: "AI & SOCIETY, 40(2), 711–732 (2025)"
-  highlight: 0
+  highlight: 1
   news1: ""
   news2: ""
 
@@ -124,7 +124,7 @@
   link:
     url: "https://arxiv.org/abs/2410.12795"
     display: "arXiv preprint arXiv:2410.12795 (2024)"
-  highlight: 0
+  highlight: 1
   news1: ""
   news2: ""
 
@@ -134,7 +134,7 @@
   link:
     url: "https://arxiv.org/abs/2410.12796"
     display: "arXiv preprint arXiv:2410.12796 (2024)"
-  highlight: 0
+  highlight: 1
   news1: ""
   news2: ""
 
@@ -154,7 +154,7 @@
   link:
     url: "https://vbn.aau.dk/ws/portalfiles/portal/692322060/Ethical_Concerns_And_Responsible_Use_Of_Generative_Artificial_Int.pdf"
     display: "SEFI 2023, Proceedings (pp. 2244–2253)"
-  highlight: 0
+  highlight: 1
   news1: ""
   news2: ""
 
@@ -174,7 +174,7 @@
   link:
     url: "https://pubmed.ncbi.nlm.nih.gov/35224480/"
     display: "Frontiers in Artificial Intelligence, 5, 836557 (2022)"
-  highlight: 0
+  highlight: 1
   news1: ""
   news2: ""
 
@@ -184,7 +184,7 @@
   link:
     url: "https://ieeexplore.ieee.org/document/10547225"
     display: "IEEE Transactions on Technology and Society (2024)"
-  highlight: 0
+  highlight: 1
   news1: ""
   news2: ""
 
@@ -194,6 +194,6 @@
   link:
     url: "https://par.nsf.gov/servlets/purl/10496361"
     display: "ASEE Annual Conference & Exposition (2023)"
-  highlight: 0
+  highlight: 1
   news1: ""
   news2: ""
