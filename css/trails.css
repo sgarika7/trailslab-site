@@ -25,7 +25,23 @@
   border-radius: 14px;               
   box-shadow: 0 2px 10px rgba(0,0,0,.06);
 }
+.people .clearfix,
+.teammember .clearfix {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 30px;
+}
 
+.people img,
+.teammember img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;    
+  margin-bottom: 12px;
+}
 /* ===== Publications page ===== */
 /* Equal-height “cards” and tighter grid */
 .pub-rows { display: flex; flex-wrap: wrap; gap: 22px; }
