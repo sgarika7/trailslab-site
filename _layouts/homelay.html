@@ -2,18 +2,21 @@
 layout: default
 ---
 
-<div class="page-content">
+<div class="page-content text-center">
   <div class="wrapper">
-    <div class="row">
-      <div id="homeid" class="col-sm-12">
-        <h1>Welcome to the TRAILSLab</h1>
-        {{ content }}
-      </div>
-      <!--
-      <div id="newsid" class="col-sm-4">
-        {% include news.html %}
-      </div>
-      -->
+    <!-- Logo or hero image -->
+    <div class="hero-logo">
+      <img src="/images/trailslab_logo.png" alt="trailsLAB logo">
     </div>
+     <!-- Welcome heading -->
+    <h1>Welcome to the TRAILSLab</h1>
+    <!-- Body text -->
+    <div class="hero-text text-left">
+      {{ content }}
+    </div>
+    <div id="newsid" class="col-sm-4">
+        {% include news.html %}
+     </div>
   </div>
 </div>
+
