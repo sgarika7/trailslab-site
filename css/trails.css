@@ -85,3 +85,17 @@ pubtit { display: block; font-weight: 700; font-size: 18px; margin-bottom: 8px; 
   padding-top: 16px;
   border-top: 1px solid #eee;
 }
+
+.hero-logo img {
+  max-width: 280px;
+  height: auto;
+  margin: 0 auto 20px;
+  display: block;
+}
+
+.hero-text {
+  max-width: 70ch;
+  margin: 0 auto;
+  font-size: 18px;
+  line-height: 1.7;
+}
