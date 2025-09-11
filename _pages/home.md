@@ -4,6 +4,7 @@ layout: homelay
 excerpt: "Technocritical Research on AI, Learning & Society (trailsLAB), George Mason University."
 sitemap: false
 permalink: /
+markdown: 0 
 ---
 
 <img src="{{ site.baseurl }}/images/newspic/logo.png" alt="trailsLAB logo" class="home-logo">
