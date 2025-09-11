@@ -1,3 +1,4 @@
+
 ---
 title: "TRAILSLab - Home"
 layout: homelay
@@ -6,4 +7,12 @@ sitemap: false
 permalink: /
 ---
 
-<div>test</div>
+<div class="home-wrap">
+  <div class="home-hero-grid">
+    <img src="{{ site.baseurl }}/images/newspic/logo.png" alt="trailsLAB logo" class="home-logo">
+    <div class="home-lead">
+      <p>...</p>
+      <p>...</p>
+    </div>
+  </div>
+</div>
