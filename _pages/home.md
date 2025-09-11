@@ -1,4 +1,3 @@
-
 ---
 title: "TRAILSLab - Home"
 layout: homelay
